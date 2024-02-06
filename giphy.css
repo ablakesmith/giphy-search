@@ -1,0 +1,22 @@
+* {
+    font-family: 'Carrois Gothic', serif;
+}
+
+body {
+    min-width: 300px;
+    background-color: rgb(138, 170, 202);
+}
+
+header {
+    background-color: rgb(138, 170, 202);
+    border-bottom: 1px solid black;
+}
+
+.giphy-img {
+    margin: 10px;
+    border: 2px ridge black;
+}
+
+.giphy-form {
+    margin: 20px;
+}
