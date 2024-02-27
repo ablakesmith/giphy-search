@@ -1,22 +1,22 @@
 body {
     font-family: 'Carrois Gothic', serif;
     min-width: 300px;
-    background-color: #f8f9fa;
+    background-color: rgb(248, 249, 250);
 }
 
 header {
-    background-color: #007bff;
+    background-color: rgb(0, 123, 255);
     padding: 15px;
     color: white;
     text-align: center;
-    border-bottom: 1px solid #0056b3;
+    border-bottom: 1px solid rgb(0, 86, 179);
 }
 
 footer {
-    background-color: #007bff;
+    background-color: rgb(0, 123, 255);
     padding: 10px;
     text-align: center;
-    border-top: 1px solid #0056b3;
+    border-top: 1px solid rgb(0, 86, 179);
 }
 
 .navbar-brand {
@@ -25,7 +25,7 @@ footer {
 }
 
 .navbar {
-    background-color: #007bff;
+    background-color: rgb(0, 123, 255);
 }
 
 .nav-link {
@@ -34,7 +34,7 @@ footer {
 
 .giphy-img {
     margin: 10px;
-    border: 2px solid #6c757d;
+    border: 2px solid rgb(108, 117, 125);
     border-radius: 8px;
 }
 
@@ -50,7 +50,7 @@ footer {
 }
 
 .btn-success {
-    background-color: #28a745;
+    background-color: rgb(40, 167, 69);
     color: white;
 }
 
