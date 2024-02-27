@@ -1,17 +1,19 @@
 ## User Stories
 
-Objective: Develop a Giphy search application with an intuitive user interface and efficient functionality.
-
-Why: Provide users with a seamless experience for discovering and sharing memes through a well-designed application.
+As a meme enthusiast: I want to easily find and share my favorite memes
+So that I can engage with others and have a fun online experience.
 
 **Navigation Bar**
-    - As a developer, I want to ensure the navigation bar is structured for responsiveness, allowing users to easily access different sections of the Giphy search application.
+    - As a user, I expect a simple and intuitive navigation system for easy access to different sections of the Giphy search application.
 
 **Search Form**
-    - As a developer, I aim to create a user-friendly form in the main section for users to input their favorite memes and select the number of gifs to display.
+    - As a user, I want a straightforward form to input my favorite memes and choose the number of gifs to display.
+    - So that I can quickly find and share gifs that match my preferences.
 
 **Gif Display**
-    - As a developer, I need to implement JavaScript functionality to handle form submission, fetching and displaying gifs related to the entered meme.
+    - As a user, I expect the application to fetch and display gifs based on the entered meme.
+    - So that I can enjoy a dynamic and personalized collection of gifs.
 
 **Footer**
-    - As a developer, I want to include a footer with a clickable Giphy logo, redirecting users to the Giphy website for additional exploration.
+    - As a user, I expect a footer with a clickable Giphy logo, linking to Giphy's website.
+    - So that I can explore more gifs and content on Giphy.
