@@ -30,3 +30,9 @@ function renderData(response) {
 }
 
 document.querySelector(".js-giphy-form").addEventListener("submit", formSubmitted);
+
+function resetPage() {
+    document.querySelector(".js-images").innerHTML = ""; // Clear the images
+    document.querySelector("#memeTextInput").value = ""; // Clear the input field
+    document.querySelector("#numOfGifsSelect").value = "1"; // Reset the number of gifs to default
+}

@@ -1,22 +1,60 @@
-* {
-    font-family: 'Carrois Gothic', serif;
-}
-
 body {
+    font-family: 'Carrois Gothic', serif;
     min-width: 300px;
-    background-color: rgb(138, 170, 202);
+    background-color: #f8f9fa;
 }
 
 header {
-    background-color: rgb(138, 170, 202);
-    border-bottom: 1px solid black;
+    background-color: #007bff;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid #0056b3;
+}
+
+footer {
+    background-color: #007bff;
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #0056b3;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #007bff;
+}
+
+.nav-link {
+    color: white !important;
 }
 
 .giphy-img {
     margin: 10px;
-    border: 2px ridge black;
+    border: 2px solid #6c757d;
+    border-radius: 8px;
 }
 
 .giphy-form {
-    margin: 20px;
+    margin: 20px 0;
+}
+
+.form-label,
+.form-control,
+.form-select,
+.btn {
+    margin-bottom: 10px;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: white;
+}
+
+footer img {
+    max-width: 100%;
+    height: auto;
 }
